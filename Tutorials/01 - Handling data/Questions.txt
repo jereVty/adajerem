@@ -1,0 +1,3 @@
+Un-understood points:
+    a) pd.get_dummies(vessels.head(10).type) (Pandas II)
+    b) Apply function
